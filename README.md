@@ -124,10 +124,6 @@ http://localhost:5000
 
 Contributions are welcome. Feel free to fork the repository and submit pull requests.
 
-## 📄 License
-
-MIT License
-
 ## 👨‍💻 Author
 
 Ninad Tarwate
