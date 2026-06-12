@@ -1,0 +1,2 @@
+# MediStat-Insights
+Malaria Detection
