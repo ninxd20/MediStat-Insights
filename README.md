@@ -120,10 +120,6 @@ http://localhost:5000
 - Explainable AI visualizations
 - Doctor authentication system
 
-## 🤝 Contributing
 
-Contributions are welcome. Feel free to fork the repository and submit pull requests.
 
-## 👨‍💻 Author
 
-Ninad Tarwate
